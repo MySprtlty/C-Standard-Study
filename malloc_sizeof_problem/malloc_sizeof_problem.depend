@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663343236 source:d:\desktop symbolic link origin\study\git project\c_playground\malloc_sizeof_problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
