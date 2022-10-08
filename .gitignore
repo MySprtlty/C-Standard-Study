@@ -1,2 +1,6 @@
 /.idea
 /*/*.exe
+*.cbp
+*.layout
+./bin
+./obj
