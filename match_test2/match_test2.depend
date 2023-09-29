@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1655361136 source:d:\desktop symbolic link origin\study\git project\c_playground\match_test2\match_test2\main.c
-	<stdio.h>
-
-1655361075 source:d:\desktop symbolic link origin\study\git project\c_playground\match_test2\match_test2\stack.c
-	<stdio.h>
-	<stdlib.h>
-

@@ -1,6 +1,9 @@
-/.idea
-/*/*.exe
+bin/
+obj/
 *.cbp
 *.layout
-./bin
-./obj
+*.depend
+*.exe
+idea/
+
+

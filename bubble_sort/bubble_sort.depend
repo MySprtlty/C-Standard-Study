@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1655514593 source:d:\desktop symbolic link origin\study\git project\c_playground\bubble_sort\bubble.c
-	<stdio.h>
-
-1655514639 source:d:\desktop symbolic link origin\study\git project\c_playground\bubble_sort\main.c
-	<stdio.h>
-	<stdlib.h>
-
